@@ -8,7 +8,7 @@ Welcome to the **Advanced Dice Game**, inspired by Ludo rules! Built using HTML,
 
 ## 🚀 Live Demo
 
-> [Click here to play online](https://your-username.github.io/dice-game/)  
+> [Click here to play online](https://agravi987.github.io/DiceGame/)  
 > _(replace with your GitHub Pages URL)_
 
 ---
